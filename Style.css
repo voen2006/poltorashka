@@ -1,0 +1,42 @@
+body {
+    color: #6B4F3F;
+    background-color: #D1BFA6 !important;
+
+    scroll-behavior: smooth;
+    text-align: center;
+}
+
+.m {
+    min-height: 100vh;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header {
+    min-height: 100vh;
+    padding-top: 40vh;
+}
+
+.main-text {
+    padding-top: 20vh;
+}
+
+.arrow {
+    font-size: 3rem;
+    font-weight: 900;
+}
+
+.ss {
+    font-size: 4rem;
+}
+
+.footer {
+    background-color: #3b2b22;
+    color: rgb(221, 224, 227);
+    height: 50px;
+    display: flex;
+    align-items: center; /* Вирівнює текст по вертикалі */
+    padding-left: 15px; /* Додає відступ зліва */
+}
